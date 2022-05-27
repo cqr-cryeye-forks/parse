@@ -1,5 +1,5 @@
 {
-    "name":"psecio/parse",
+    "name":"zeinlol/parse",
     "type":"library",
     "description":"A PHP Security Scanner",
     "keywords":["security","scanner","static"],
